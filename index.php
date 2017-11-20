@@ -19,9 +19,6 @@
     
 <body ng-controller="DemoCtrl" class="container"  ng-app="DemoApp">
 
-  <h2> Realtime DB BY SEKMUTNB</h2>
-
-
  <!--ADD ITEM FORM-->
  <form name="myForm">
 
